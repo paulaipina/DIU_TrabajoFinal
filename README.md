@@ -3,4 +3,4 @@
 ## PARTE I: MI EXPERIENCIA UX
 
 
-## PARTE II: CASO DE ESTUDIO. EVALUACIÓN DE UN _FILM COMISSION_ COMO ATRACTIVO TURÍSTICO DE GRX
+## PARTE II: CASO DE ESTUDIO. Evaluación de un _film comission_ como atractivo turístico de GRX.
