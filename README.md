@@ -306,7 +306,7 @@ Los principales cambios a añadir en la página son:
 - Inclusión de una sección de rutas de localizaciones de rodaje, para promocionar el turismo en estas zonas.
 
 Finalmente, planteamos un boceto de cómo sería esta propuesta de valor como una app.
-![Bocetos](imgs/Bocetos.png)
+![Bocetos](imgs/Bocetos.jpg)
 
 
 
