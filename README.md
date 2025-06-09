@@ -204,6 +204,68 @@ La realización del Usability Report de un proyecto alternativo al nuestro nos a
 
 
 # PARTE II: CASO DE ESTUDIO. Evaluación de un _film comission_ como atractivo turístico de GRX.
+Para esta segunda parte del trabajo, se elaborará un caso de estudio final donde se analizará la página web de film commission de Valencia, Valencia FIlm Office: https://www.valenciafilmoffice.org/
+
+## Parte A. Análisis de la propuesta.
+<br>
+
+### 1a. User Research Plan.
+Para el análisis de la usabilidad de la página, siguiendo algunas de las pautas empleadas en las prácticas, realizaríamos un estudio de los usuarios siguiendo las metodologías habituales (entrevistas, estudios etnográficos, cuestionarios, etc.), para llevar a cabo el análisis de los contextos personales, las motivaciones y necesidades que los usuarios de la página puedan tener. Estas entrevistas o estudios etnográficos serían especialmente útiles al tratarse de usuarios altamente especializados en la temática de la página (el mundo del cine), por lo que serían de enorme utilidad para conocer mejor sus intereses / preocupaciones / necesidades a la hora de analizar cómo interactúan con la página, qué potenciales puntos de fricción pueden encontrarse y detectar oportunidades de mejora.
+Para el estudio completo, podríamos llevar a cabo los siguientes pasos:
+- **Definir los objetivos claros de la página:** qué buscan los profesionales del cine en una film commission, cuál es su objetivo principal, frustraciones al usar la página.
+- **Análisis cualitativo con usuarios altamente especializados** (directores, productores, etc.).
+- **Análisis cuantitativo mediante encuestas** que analizen aspectos más generales de la página como cuán intuitiva es, cómo de fácil es la navegación, se han encontrado con algún error en el uso (links rotos, formularios que no envían la información, etc.).
+- **Estudios etnográficos**: que nos permitan analizar el comportamiento de los usuarios especializados en el uso de los objetivos principales (anteriormente definidos) de la página.
+<br>
+
+### 1b. Usability Review.
+Informe de usabilidad de la página, que consiste en la evaluación de una larga serie de pautas, basadas en principios heurísticos. Para ello se ha hecho eso de la siguiente plantilla, que contiene las pautas principales de un buen diseño y una buena usabilidad de una página web:
+<br>
+![Usability Review](imgs/Usability_Review_Img.png)
+<br>
+
+La puntuación obtenida es alta, si bien hay aspectos a mejorar, como:
+- El aspecto a mejorar más importante es la falta de una tarea principal destacada en la página inicial, que haría mucho más intuitiva el task flow que deben seguir principalmente los usuarios.
+- Arreglar el botón de iniciar sesión, que no funciona correctamente (a veces no te dirige a la página al hacer click, y a veces desaparece al hacer la ventana más pequeña).
+- En relación a lo anterior, mejorar la página de registro, de manera que indique los errores de manera menos invasiva, e indicando claramente cuál fue el error.
+- Mejorar la opción de búsqueda en la página de “profesionales”, para que haga búsquedas más amplias, con términos relacionados y no solo términos exactos (de manera que simplemente por fallar una letra ya no muestre nada, como ocurre actualmente).
+- Mejorar la carga de la página, que en ocasiones es lenta y algunos contenidos se rompen (como el video inicial de la página, que te muestra la interfaz de youtube) o el botón de iniciar sesión.
+
+Como aspectos positivos de la página, destacaría:
+- Su navegación sencilla, con secciones bien definidas y claramente localizables, sin demasiados elementos tanto en el menú de navegación principal como en el menú de navegación secundario.
+- Su diseño visual, balanceado (zonas con contenidos equilibrados), simétrico, y regular. Tiene un diseño limpio sin estar demasiado sobrecargado.
+- Se proporciona en todo momento el wayfinding, así como una estructura del sitio al final de la página, orientando de forma correcta al usuario en todo momento.
+- Formulario e información de contacto fácilmente encontrable y con información correcta.
+- Información disponible y apropiada en la sección más importante (la solicitud de rodajes).
+
+La principal propuesta de valor que añadiría a la página, es la posibilidad de realizar los trámites de solicitud para rodajes directamente desde la página, sin tener que descargar un documento y enviarlo por correo electrónico.
+<br>
+
+### 1c. Test de accesibilidad.
+Haciendo uso de la herramienta WAVE Web Accessibility Evaluation Tool, que es una extensión para navegador que realiza una evaluación automática del cumplimiento por parte de una página de las pautas de diseño accesible.
+Aplicando la extensión sobre la página de Valencia film commission, observamos que la página no tiene prácticamente errores, apenas un sólo error de contraste.
+<br>
+![Test de accesibilidad WAVE](imgs/Test_Accesibilidad.png)
+<br>
+
+Todas las imágenes tienen texto alternativo, los botones de formularios etiquetados, links funcionales, opción de lenguaje (si bien sólo español-valenciano), elementos estructurales correctamente etiquetados.
+
+El test sí que detecta siete alertas: links de videos de youtube incrustados, un elemento “<noscript>”, y 4 campos de texto con alerta de “possible heading”.
+<br>
+![Test de accesibilidad WAVE - Alertas](imgs/Test_Accesibilidad_2.png)
+
+En general, es una página accesible aunque con algún pequeño aspecto a mejorar.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
