@@ -10,7 +10,7 @@ Todas estas actividades y prácticas, así como la experiencia que me han aporta
 En esta primera toma de contacto, se partía del aspecto más básico del análisis de la experiencia de usuario: observar situaciones reales de usuarios teniendo conflictos a la hora de interaccionar con una interfaz. 
 En este caso, hacíamos uso de un método de análisis **cualitativo** (observación directa) donde ponemos el enfoque en el **comportamiento de los usuarios** (frente a “lo que los usuarios dicen”), **sin ninguna intervención** por nuestra parte (analizando el uso natural del producto), sino simplemente actuando como observadores.
 En mi caso, la situación que observé es una que se da de forma frecuente: confusión de los usuarios para entender la compra de billetes del transporte público, en este caso del metropolitano de Granada. El estudio que hice fue el siguiente: <br>
-[Actividad I: Etnografía](imgs/A1_Etnography.png)
+![Actividad I: Etnografía](imgs/A1_Etnography.png)
 <br>
 De esta forma, las aportaciones principales fueron:
 - **Identificar y recoger el conflicto observado:** una chica joven vive una confusión para usar una interfaz de compra de billetes de tranvía.
