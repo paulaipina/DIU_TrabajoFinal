@@ -97,7 +97,7 @@ Las aportaciones de este proyecto fueron:
 En esta actividad llevamos a cabo la realización de un informe de usabilidad de una página web de una universidad. Para ello, empleamos dos métodos de evaluación: inspección mediante heurística, que consiste en la revisión por expertos (nosotros con nuestra experiencia) del cumplimiento de una serie de puntos; y el testeo de la página mediante la propuesta de una serie de metas a realizar en la página, y cómo de fácil/difícil es llevarlas a cabo.
 La evaluación de la usabilidad la llevamos a cabo con la página de la Universidad de las Islas Baleares (https://www.uib.es). El informe obtenido fue el siguiente:
 <br>
-![Actividad extra: informe de usabilidad](AExtra_Usabilidad.png)
+![Actividad extra: informe de usabilidad](imgs/AExtra_Usabilidad.png)
 <br>
 
 Las aportaciones realizadas en la actividad fueron:
