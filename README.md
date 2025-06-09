@@ -264,7 +264,8 @@ En general, es una página accesible aunque con algún pequeño aspecto a mejora
 ## Parte B. Comparativa con otra propuesta (Granada Filmin).
 En esta segunda parte, vamos a realizar una comparativa entre nuestro caso de estudio, el _Valencia film commission_ con la propuesta de _film commission_ de Granada (https://filmgranada.com).
 
-Para ello, hemos desarrollado la siguiente tabla comparativa, donde se analizan diversos aspectos de la usabilidad como el diseño, la estructura y navegación o la adaptación a diversos dispositivos:
+Para ello, hemos desarrollado la siguiente tabla comparativa, donde se analizan diversos aspectos de la experiencia de usuario, como el diseño, la estructura y navegación, usabilidad, accesibilidad, y adaptación a diversos dispositivos y rendimiento usabilidad, destacando finalmente los puntos fuertes y débiles de cada propuesta:
+<br>
 
 | **Criterios de análisis**                 | **Valencia Film Commission**                                                                                             | **Granada Film**                                                                                           |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -284,7 +285,21 @@ Para ello, hemos desarrollado la siguiente tabla comparativa, donde se analizan 
 | **Diseño responsive**                     | Sí                                                                                                                      | Sí                                                                                                         |
 | **Rendimiento**                           | Moderado                                                                                                                | Moderado                                                                                                  |
 | **Fortalezas**                            | Diseño minimalista, intuitivo, secciones bien definidas.                                                                | Posibilidad de realizar las solicitudes de la film commission a través de la página. Flujo de acción definido en la página principal. Wayfinding siempre presente. |
-| **Puntos débiles**                        | Falta de un objetivo fácilmente identificable en la página principal, falta de un buscador y falta de la posibilidad de realizar solicitudes de la film commission a través de la página. | Diseño sobrecargado con tipografías poco legibles y bajo contraste, falta de cumplimiento con estándares de accesibilidad. Navegación ligeramente confusa. Falta de sitemap (arquitectura de la información moderadamente mostrada). |
+| **Puntos débiles**                        | Falta de un objetivo fácilmente identificable en la página principal, falta de un buscador y falta de la posibilidad de realizar solicitudes de la film commission a través de la página. | Diseño sobrecargado con tipografías poco legibles y bajo contraste, falta de cumplimiento con estándares de accesibilidad. Navegación ligeramente confusa. Falta de sitemap (arquitectura de la información no del todo descrita). |
+
+<br>
+
+Analizando los resultados obtenidos, vemos que cada una falla en el punto fuerte de la otra: mientras que la página de Granda sí te guía hacia la página que contiene el objetivo principal (solicitudes relacionadas con las _film commission_), ésta es la principal debilidad que presenta la página de Valencia. Por otro lado, mientras que la página de Valencia tiene bien definida la arquitectura de la información, y tiene un diseño visual correctamente balanceado, simétrico y limpio, además de cumplir bien con los estándares de accesibiliad, la página de Granada no tiene estructura del sitio (aunque sí wayfinding fácilmente localizable), y un diseño visual algo recargado y no siempre simétrico ni balanceado, además de no cumplir del todo con estándares de accesbilidad.
+
+
+## Paso 3. Propuesta de valor.
+
+
+
+## Paso 4. Conclusión.
+
+
+
 
 
 
