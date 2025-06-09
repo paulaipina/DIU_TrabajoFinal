@@ -23,10 +23,10 @@ En esta segunda actividad, se cambiaban las tornas y éramos nosotros los que in
 El método seguido, a diferencia de la actividad anterior, no consistía en un uso natural de la interfaz, sino en un análisis guionizado siguiendo una plantilla de tipo _Checklist_ donde observábamos si la página puesta a estudio cumplía con las diferentes pautas relacionados con un buen diseño web, que faciliten la experiencia de usuario al público objetivo, para finalmente comparar la propuesta con otros productos de la competencia.
 La página a analizar fue la de **Jardines de Zoraya** (https://flamencogranada.com) y la propuesta de la competencia elegida para la comparativa fue “La Arboreá” (https://alboreaflamenco.com). Las pautas a analizar fueron: diseño visual, navegación, wayfinding, UX Writing, patrones y puntos críticos.
 <br>
-[Actividad II: Evaluación de un diseño web pt 1](imgs/A2_Website_Checklist_Img1.png)
+![Actividad II: Evaluación de un diseño web pt 1](imgs/A2_Website_Checklist_Img1.png)
 <br>
 <br>
-[Actividad II: Evaluación de un diseño web pt 2](imgs/A2_Website_Checklist_Img2.png)
+![Actividad II: Evaluación de un diseño web pt 2](imgs/A2_Website_Checklist_Img2.png)
 <br>
 Las aportaciones fueron:
 - **Seguimiento de las distintas pautas de buen diseño web y usabilidad** aplicadas a un escenario real y su búsqueda y análisis en la página de estudio.
@@ -49,7 +49,7 @@ En esta actividad, las pautas recogidas, así como las herramientas de diseño e
 
 Finalmente, el tablero creado fue el siguiente:
 <br>
-[Actividad III: Diseño de Moodboard](imgs/A3_Moodboard.png)
+![Actividad III: Diseño de Moodboard](imgs/A3_Moodboard.png)
 <br>
 
 Las aportaciones fueron:
@@ -65,11 +65,11 @@ Con esta actividad, volvemos al análisis de interfaces, más específicamente, 
 
 La página web que analizamos en nuestro estudio de accesibilidad fue la página web de Toledo y el resultado del estudio que llevamos a cabo fue:
 <br>
-[Actividad IV: Accesibilidad pt 1](imgs/A4_Accesibilidad_Img1.png)
+![Actividad IV: Accesibilidad pt 1](imgs/A4_Accesibilidad_Img1.png)
 <br>
-[Actividad IV: Accesibilidad pt 2](imgs/A4_Accesibilidad_Img2.png)
+![Actividad IV: Accesibilidad pt 2](imgs/A4_Accesibilidad_Img2.png)
 <br>
-[Actividad IV: Accesibilidad pt 3](imgs/A4_Accesibilidad_Img3.png)
+![Actividad IV: Accesibilidad pt 3](imgs/A4_Accesibilidad_Img3.png)
 <br>
 
 Las aportaciones principales a este estudio fueron:
@@ -85,7 +85,7 @@ Las aportaciones principales a este estudio fueron:
 En esta actividad se vuelve al diseño de interfaces, esta vez **interfaces dinámicas**, realizando un **diseño de una página web con micro interacciones y animaciones**. Con esta actividad se busca ofrecer una experiencia de usuario que impacte visual y funcionalmente.
 Para el desarrollo de la actividad, elegimos una **animación de tipo Intro Slider** e, inspirándonos en el ejemplo dado (https://www.display.care/resources/), hicimos uso de Figma para la realización de una propuesta de rediseño con nuestro propio concepto de frutos del bosque. Nuestra estrategia era la combinación de colores que recuerdan a los frutos del bosque con transiciones suaves para representar naturalidad y dinamismo.
 El proyecto final se encuentra en:
-[Web Animation Design](Enlace de Figma)
+![Web Animation Design](Enlace de Figma)
 
 Las aportaciones de este proyecto fueron:
 - **Diseño y personalización de transiciones y microinteracciones** entre diferentes elementos de un prototipo de página web en Figma que hacen al usuario partícipe de los efectos visuales mediante movimientos del cursor o clics.
@@ -97,7 +97,7 @@ Las aportaciones de este proyecto fueron:
 En esta actividad llevamos a cabo la realización de un informe de usabilidad de una página web de una universidad. Para ello, empleamos dos métodos de evaluación: inspección mediante heurística, que consiste en la revisión por expertos (nosotros con nuestra experiencia) del cumplimiento de una serie de puntos; y el testeo de la página mediante la propuesta de una serie de metas a realizar en la página, y cómo de fácil/difícil es llevarlas a cabo.
 La evaluación de la usabilidad la llevamos a cabo con la página de la Universidad de las Islas Baleares (https://www.uib.es). El informe obtenido fue el siguiente:
 <br>
-[Actividad extra: informe de usabilidad](AExtra_Usabilidad.png)
+![Actividad extra: informe de usabilidad](AExtra_Usabilidad.png)
 <br>
 
 Las aportaciones realizadas en la actividad fueron:
