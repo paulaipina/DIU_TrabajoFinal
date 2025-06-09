@@ -221,7 +221,7 @@ Para el estudio completo, podríamos llevar a cabo los siguientes pasos:
 ### 1b. Usability Review.
 Informe de usabilidad de la página, que consiste en la evaluación de una larga serie de pautas, basadas en principios heurísticos. Para ello se ha hecho eso de la siguiente plantilla, que contiene las pautas principales de un buen diseño y una buena usabilidad de una página web:
 <br>
-![Usability Review](imgs/Usability_Review_Img.png)
+[Usability Review Completo: ](CasoEstudio/Usability_Review.pdf)
 <br>
 
 La puntuación obtenida es alta, si bien hay aspectos a mejorar, como:
