@@ -1,4 +1,5 @@
 # DIU_TrabajoFinal
+Realizado por: Paula García Ipiña.
 
 # PARTE I: MI EXPERIENCIA UX
 <br>
@@ -260,16 +261,30 @@ El test sí que detecta siete alertas: links de videos de youtube incrustados, u
 En general, es una página accesible aunque con algún pequeño aspecto a mejorar.
 
 
+## Parte B. Comparativa con otra propuesta (Granada Filmin).
+En esta segunda parte, vamos a realizar una comparativa entre nuestro caso de estudio, el _Valencia film commission_ con la propuesta de _film commission_ de Granada (https://filmgranada.com).
 
+Para ello, hemos desarrollado la siguiente tabla comparativa, donde se analizan diversos aspectos de la usabilidad como el diseño, la estructura y navegación o la adaptación a diversos dispositivos:
 
-
-
-
-
-
-
-
-
+| **Criterios de análisis**                 | **Valencia Film Commission**                                                                                             | **Granada Film**                                                                                           |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Diseño**                                | Diseño moderno, minimalista y limpio. Numerosas imágenes. Los videos son de mala calidad e incrustados desde YouTube.    | Diseño más sobrecargado, alguna tipografía puede no ser demasiado legible. Numerosas imágenes. Vídeos de alta calidad. |
+| **Consistencia visual**                   | Buen balanceado y simetría de los diversos elementos.                                                                    | No siempre se cumple la simetría ni el balanceado. Algunos campos de texto están desalineados y los espacios varían.  |
+| **Navegación y estructura**               | Menú de navegación principal claro. Pocas secciones bien definidas y diferenciadas.                                      | Menú de navegación más complejo (hasta 7 secciones). Secciones no siempre bien diferenciadas.               |
+| **Facilidad para encontrar información clave** | En la página principal no destaca la información u objetivo clave, aunque el menú esté bien definido.                    | Destaca la sección clave en la página principal. Menú de navegación confuso para llegar a la solicitud de rodaje. |
+| **Wayfinding**                            | Sí                                                                                                                      | Sí                                                                                                         |
+| **Estructura del sitio**                  | Sí                                                                                                                      | No                                                                                                         |
+| **Funcionalidades**                       |                                                                                                                         |                                                                                                            |
+| Buscadores avanzados                      | No. Solo en una sección y con funcionalidad limitada.                                                                    | Sí, incluso en la página principal.                                                                       |
+| Formularios online para solicitudes       | Sólo para contacto y registro, no para solicitudes principales de un film commission.                                    | Sí, para todo tipo de solicitudes relacionadas con un film commission.                                    |
+| **Usabilidad y accesibilidad**            |                                                                                                                         |                                                                                                            |
+| Facilidad de uso en escritorio y móvil    | Sí                                                                                                                      | Sí                                                                                                         |
+| Conformidad con estándares de accesibilidad | Según WAVE, 0 errores, 1 error de contraste, 7 alertas. Altamente conforme.                                              | Según WAVE, 49 errores, 61 errores de contraste, 61 alertas. No conforme.                                |
+| **Adaptación a dispositivos**             |                                                                                                                         |                                                                                                            |
+| Diseño responsive                         | Sí                                                                                                                      | Sí                                                                                                         |
+| **Rendimiento**                           | Moderado                                                                                                                | Moderado                                                                                                  |
+| **Fortalezas**                            | Diseño minimalista, intuitivo, secciones bien definidas. Navegación sencilla con estructura clara.                       | Posibilidad de realizar solicitudes de la film commission a través de la página. Wayfinding siempre presente. |
+| **Puntos débiles**                        | Falta de un objetivo claro en la página principal, falta de buscador y de solicitudes principales online.                | Diseño sobrecargado, tipografías poco legibles y bajo contraste. Navegación confusa. No hay sitemap visible. |
 
 
 
