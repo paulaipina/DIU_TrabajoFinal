@@ -239,7 +239,7 @@ Como aspectos positivos de la página, destacaría:
 - Formulario e información de contacto fácilmente encontrable y con información correcta.
 - Información disponible y apropiada en la sección más importante (la solicitud de rodajes).
 
-La principal propuesta de valor que añadiría a la página, es la posibilidad de realizar los trámites de solicitud para rodajes directamente desde la página, sin tener que descargar un documento y enviarlo por correo electrónico, o añadir más buscadores, como en la página principal, o en las localizaciones para facilitar su búsqueda y promición.
+La principal propuesta de valor que añadiría a la página, es la posibilidad de realizar los trámites de solicitud para rodajes directamente desde la página, sin tener que descargar un documento y enviarlo por correo electrónico, o añadir más buscadores, como en la página principal, o en las localizaciones para facilitar su búsqueda y promoción.
 <br>
 
 ### 1c. Test de accesibilidad.
@@ -293,19 +293,35 @@ Analizando los resultados obtenidos, vemos que cada una falla en el punto fuerte
 
 
 ## Paso 3. Propuesta de valor.
-A partir de los resultados obtenidos con el análisis de usabilidad y la comparativa con la competencia, podemos llevar a cabo una propuesta de valor. Recogemos en un _Scope Canvas_ las principales necesidades de la propuesta que hemos detectado, tanto aquellas que suponen dolencias / faltas, como aquellas que suponen motivadores, los objetivos a corto y largo plazo de la propuesta, y los propósitos principales del rediseño. Analizaremos las acciones que llevarán a cabo los usuarios y las métricas que indicarán éxito en el rediseño.
+A partir de los resultados obtenidos con el análisis de usabilidad y la comparativa con la competencia, podemos llevar a cabo una propuesta de valor con el objetivo de fomentar el turismo local. Recogemos en un _Scope Canvas_ las principales necesidades de la propuesta que hemos detectado, tanto aquellas que suponen dolencias / faltas, como aquellas que suponen motivadores, los objetivos a corto y largo plazo de la propuesta, y los propósitos principales del rediseño. Analizaremos las acciones que llevarán a cabo los usuarios y las métricas que indicarán éxito en el rediseño.
 El _**Scope Canvas**_ realizado es:
 <br>
 <br>
 ![Scope Canvas](imgs/ScopeCanvas.png)
 <br>
 
+Los principales cambios a añadir en la página son: 
+- Adición de un objetivo principal en la página inicial: mejora la usabilidad.
+- Añadir una búsqueda interactiva de localizaciones famosas de rodaje en Valencia en un mapa, con el objetivo de facilitar su localización, para promocionar su vista.
+- Inclusión de una sección de rutas de localizaciones de rodaje, para promocionar el turismo en estas zonas.
 
-## Paso 4. Conclusión.
+Finalmente, planteamos un boceto de cómo sería esta propuesta de valor como una app.
+![Bocetos](imgs/Bocetos.png)
 
 
 
+## Paso 4. Análisis del caso de estudio.
+Teniendo en cuenta el tiempo limitado para llevar a cabo este proyecto, se ha hecho un caso de estudio bastante completo, con análisis de usuarios, usabilidad y accesibilidad de una página web, y propuesta de valor de un rediseño de la página con el objetivo de fomentar el turismo, con ideación de un scope canvas y diseño de bocetos. 
+Aún así, el caso de estudio realizado en las prácticas es mucho más completo, y muchas de las ténicas empleadas podrían aplicarse a este caso para hacer un estudio mucho más valioso y detallado. Algunas de estas técnicas serían:
+
+- **Análisis e investigación de usuarios:** llevar a cabo las propuestas realizadas en el User Research Plan, incluidas las entrevistas, cuestionarios y estudios etnográficos. Definir perfiles de usuario de la página, que nos permitan detectar las necesidades de los usuarios y sus motivaciones, y describir user journey maps, que permitan detectar puntos de fricción más realistas, que a su vez nos lleven a descubrir oportunidades y puntos de mejora.
+- **Obtención de conclusiones del análisis de usuarios:** mediante empathy mappings, que nos permitirían plasmar de forma más profunda el análisis de los usuarios de nuestra página, y detectar mejor sus necesidades, motivaciones y su experiencia; y feedback capture grids, que nos permitirían plantear mejor la información recogida de la investigación de usuarios, permitiéndonos estructurar mejor los puntos fuertes y débiles de la página bajo estudio, las cuestiones que quedan sin resolver y potenciales oportunidades.
+- **Definición más detallada de la arquitectura de la información**: tanto rehacer el sitemap en caso de ser necesario, como la definición de flujos de tareas que nos permitan detectar puntos a mejorar/cambiar/añadir en nuestra propuesta de valor.
+- **Guías de estilos**: realización de tablas de inspiración, en caso de ser necesarios cambios en el diseño visual de la propuesta.
+- **Prototipos de alto nivel**: que permitan definir el nuevo diseño de la propuesta de valor, a partir de los cambios realizados, el principal siendo en la página inicial.
+- **A/B Testing**: que nos permita realizar un estudio de la usabilidad en la comparación de dos propuestas, llevada a cabo por usuarios reales, para obtener información valiosa sobre cómo los usuarios reales interactúan con la página.
 
 
-
+### Conclusión
+La realización de todas las prácticas me ha permitido tener una idea muy completa y más realista de cómo es el proceso de análisis y diseño de interfaces de usuario, aprendiendo una gran variedad de técnicas y herramientas, cómo han sido explicadas en este trabajo, que me han aportado una gran base de análisis de experiencia de usuario y realización de casos de estudio completos.
 
