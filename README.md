@@ -85,7 +85,7 @@ Las aportaciones principales a este estudio fueron:
 En esta actividad se vuelve al diseño de interfaces, esta vez **interfaces dinámicas**, realizando un **diseño de una página web con micro interacciones y animaciones**. Con esta actividad se busca ofrecer una experiencia de usuario que impacte visual y funcionalmente.
 Para el desarrollo de la actividad, elegimos una **animación de tipo Intro Slider** e, inspirándonos en el ejemplo dado (https://www.display.care/resources/), hicimos uso de Figma para la realización de una propuesta de rediseño con nuestro propio concepto de frutos del bosque. Nuestra estrategia era la combinación de colores que recuerdan a los frutos del bosque con transiciones suaves para representar naturalidad y dinamismo.
 El proyecto final se encuentra en:
-![Web Animation Design](Enlace de Figma)
+[Web Animation Design](https://www.figma.com/design/8QQhJQCKxNQlAI6gn3r8fl/DesignAnimation-3-Slider?node-id=2053-2)
 
 Las aportaciones de este proyecto fueron:
 - **Diseño y personalización de transiciones y microinteracciones** entre diferentes elementos de un prototipo de página web en Figma que hacen al usuario partícipe de los efectos visuales mediante movimientos del cursor o clics.
