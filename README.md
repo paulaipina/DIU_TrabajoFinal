@@ -239,7 +239,7 @@ Como aspectos positivos de la página, destacaría:
 - Formulario e información de contacto fácilmente encontrable y con información correcta.
 - Información disponible y apropiada en la sección más importante (la solicitud de rodajes).
 
-La principal propuesta de valor que añadiría a la página, es la posibilidad de realizar los trámites de solicitud para rodajes directamente desde la página, sin tener que descargar un documento y enviarlo por correo electrónico.
+La principal propuesta de valor que añadiría a la página, es la posibilidad de realizar los trámites de solicitud para rodajes directamente desde la página, sin tener que descargar un documento y enviarlo por correo electrónico, o añadir más buscadores, como en la página principal, o en las localizaciones para facilitar su búsqueda y promición.
 <br>
 
 ### 1c. Test de accesibilidad.
@@ -293,7 +293,12 @@ Analizando los resultados obtenidos, vemos que cada una falla en el punto fuerte
 
 
 ## Paso 3. Propuesta de valor.
-
+A partir de los resultados obtenidos con el análisis de usabilidad y la comparativa con la competencia, podemos llevar a cabo una propuesta de valor. Recogemos en un _Scope Canvas_ las principales necesidades de la propuesta que hemos detectado, tanto aquellas que suponen dolencias / faltas, como aquellas que suponen motivadores, los objetivos a corto y largo plazo de la propuesta, y los propósitos principales del rediseño. Analizaremos las acciones que llevarán a cabo los usuarios y las métricas que indicarán éxito en el rediseño.
+El _**Scope Canvas**_ realizado es:
+<br>
+<br>
+![Scope Canvas](imgs/ScopeCanvas.png)
+<br>
 
 
 ## Paso 4. Conclusión.
