@@ -221,10 +221,10 @@ Para el estudio completo, podríamos llevar a cabo los siguientes pasos:
 ### 1b. Usability Review.
 Informe de usabilidad de la página, que consiste en la evaluación de una larga serie de pautas, basadas en principios heurísticos. Para ello se ha hecho eso de la siguiente plantilla, que contiene las pautas principales de un buen diseño y una buena usabilidad de una página web:
 <br>
-[Usability Review Completo: ](CasoEstudio/Usability_Review.pdf)
+[Usability Review Completo](CasoEstudio/Usability_Review.pdf)
 <br>
 
-La puntuación obtenida es alta, si bien hay aspectos a mejorar, como:
+La puntuación obtenida es alta (81/100), si bien hay aspectos a mejorar, como:
 - El aspecto a mejorar más importante es la falta de una tarea principal destacada en la página inicial, que haría mucho más intuitiva el task flow que deben seguir principalmente los usuarios.
 - Arreglar el botón de iniciar sesión, que no funciona correctamente (a veces no te dirige a la página al hacer click, y a veces desaparece al hacer la ventana más pequeña).
 - En relación a lo anterior, mejorar la página de registro, de manera que indique los errores de manera menos invasiva, e indicando claramente cuál fue el error.
@@ -245,6 +245,7 @@ La principal propuesta de valor que añadiría a la página, es la posibilidad d
 Haciendo uso de la herramienta WAVE Web Accessibility Evaluation Tool, que es una extensión para navegador que realiza una evaluación automática del cumplimiento por parte de una página de las pautas de diseño accesible.
 Aplicando la extensión sobre la página de Valencia film commission, observamos que la página no tiene prácticamente errores, apenas un sólo error de contraste.
 <br>
+<br>
 ![Test de accesibilidad WAVE](imgs/Test_Accesibilidad.png)
 <br>
 
@@ -252,7 +253,9 @@ Todas las imágenes tienen texto alternativo, los botones de formularios etiquet
 
 El test sí que detecta siete alertas: links de videos de youtube incrustados, un elemento “<noscript>”, y 4 campos de texto con alerta de “possible heading”.
 <br>
+<br>
 ![Test de accesibilidad WAVE - Alertas](imgs/Test_Accesibilidad_2.png)
+<br>
 
 En general, es una página accesible aunque con algún pequeño aspecto a mejorar.
 
